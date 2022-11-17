@@ -6,3 +6,5 @@ In this challenge, you will attempt to program a simple flight simulator where y
 
 Assets for this project were generously provided by our partner, Synty Studios, and are not for commercial use. If you would like to use any of the assets from this package in commercial projects, please purchase one of their asset packs from Synty Studios’ Asset Store page.
 Report this asset
+
+https://assetstore.unity.com/packages/templates/tutorials/create-with-code-challenge-1-plane-programming-146043
